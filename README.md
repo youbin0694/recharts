@@ -44,9 +44,17 @@ npm run dev
 
 ## 🧑‍💻 주요 기능 설명
 
-- **Advanced Feature Chart (`AdvancedFeatureChart.jsx`)**
+- **Advanced Feature Chart (`AdvancedFeatureChart.jsx`)** :
   대시보드 상단에 위치하며 툴팁, 그리드 켜기/끄기, 데이터 동적 변경 등 Recharts가 지니는 컴포넌트 재사용 및 선언적 문법의 강점을 종합적으로 모아둔 반응형 컨트롤러입니다.
-- **Chart.js Comparison Widget (`ChartJsComparisonWidget.jsx`)**
+- **Chart.js Comparison Widget (`ChartJsComparisonWidget.jsx`)** :
   거대하고 복잡한 하나의 `options` 객체를 만들어서 넘겨야만 동작하는 Chart.js의 코드를 통해, 두 라이브러리의 철학 차이를 체감할 수 있는 비교군 컴포넌트입니다.
-- **기본 차트 모듈들**
-  `AreaChart`, `BarChart`, `LineChart`, `PieChart`, `ComposedChart`의 기본적인 작성법들을 개별 위젯 컴포넌트로 분리해 가독성을 높였습니다. 
+- **기본 차트 모듈들** :
+  `AreaChart`, `BarChart`, `LineChart`, `PieChart`, `ComposedChart`의 기본적인 작성법들을 개별 위젯 컴포넌트로 분리해 가독성을 높였습니다.
+
+---
+
+  ## 결과
+<img width="925" height="1597" alt="image" src="https://github.com/user-attachments/assets/7ac437c8-9b03-457c-95fe-0323606bd088" />
+
+
+
